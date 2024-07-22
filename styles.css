@@ -50,6 +50,9 @@ ul li{
     nav ul{
         display: none;
     }
+    .show li{
+        margin-left: 50px;
+    }
     .show{
         display: flex;
         flex-direction: column;
